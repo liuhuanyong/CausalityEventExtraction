@@ -7,9 +7,10 @@ templated based causality event extraction
 本项目是对因果事件抽取以及因果知识图谱构建的一种尝试。
 
 # 技术路线
-因果事件图谱技术流程上遵循以下流程：  
+因果事件图谱技术流程上遵循以下流程：    
 ![image](https://github.com/liuhuanyong/CausalityEventGraph/blob/master/image/schema.jpg)
-主要包括以下几个步骤：
+
+主要包括以下几个步骤：  
 1、因果知识库的构建。因果知识库的构建包括因果连词库，结果词库、因果模式库等。  
 2、文本预处理。这个包括对文本进行噪声移除，非关键信息去除等。  
 3、因果事件抽取。这个包括基于因果模式库的因果对抽取。  

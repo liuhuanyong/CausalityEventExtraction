@@ -36,4 +36,5 @@ self complement of templated based causality event extraction 基于因果关系
 3）事件融合这块，利用各种相似度度量进行计算，都有一定缺陷  
 
 # question?
-send mail to lhy_in_blcu@126.com
+send mail to lhy_in_blcu@126.com  
+If any question about the project or me ,see https://liuhuanyong.github.io/

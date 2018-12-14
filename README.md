@@ -1,6 +1,5 @@
 # CausalityEventExtraction
-templated based causality event extraction
-基于因果关系模式的因果关系抽取项目
+self complement of templated based causality event extraction 基于因果关系知识库的因果事件图谱构建demo
 
 # 项目介绍
 现实社会是个逻辑社会，大量的逻辑即逻辑经验存在于我们的脑海中，而这些逻辑经验是无法穷举出来的，靠大量人工的总结，显然不切实际。然而，幸好人类将这种逻辑用文字表达出来了，这为我们利用自然语言处理技术实现这种因果逻辑的抽取提供了可能性。不过，受限于自己的技术水平，目前还无法将深度学习这套高端的打发应用于因果事件抽取当中，而以构造和总结因果模板，结合中文语言特点，构建因果语言知识库的方式代替。
@@ -37,4 +36,5 @@ templated based causality event extraction
 3）事件融合这块，利用各种相似度度量进行计算，都有一定缺陷  
 
 # question?
-send mail to lhy_in_blcu@126.com
+send mail to lhy_in_blcu@126.com  
+If any question about the project or me ,see https://liuhuanyong.github.io/
